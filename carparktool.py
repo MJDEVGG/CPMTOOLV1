@@ -7,7 +7,7 @@ from time import sleep
 # Proprietary and confidential
 # Written by Anasov <me@anasov.ly>, 05, May, 2024.
 
-BASE_URL: str = "https://ruzqar.web.tr/apicpm"
+BASE_URL: str = "mjcpmtool.wuaze.com/api"
 
 class CarParkTool:
 
